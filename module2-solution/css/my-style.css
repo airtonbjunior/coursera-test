@@ -1,8 +1,9 @@
 /*
-airtonbjunior@gmail.com
+  airtonbjunior@gmail.com
+  SORRY ABOUT THE COLORS, I'M COLORBLIND! :D
 */
 
-/********** Base styles **********/
+/* Base Styles */
 * {
   box-sizing: border-box;
   font-family: Helvetica;
@@ -16,6 +17,8 @@ h1 {
 h2 {
   background: red;
   color: white;
+  padding: 0px 5px 0px 5px;
+  border: solid 1px black;
 
   position: absolute;
   top: -20px; /* because padding of section. I don't know if this is the right way to do this haha*/
