@@ -15,7 +15,6 @@ h1 {
 }
 
 h2 {
-  background: red;
   color: white;
   padding: 0px 5px 0px 5px;
   border: solid 1px black;
@@ -44,6 +43,17 @@ section {
   width: 100%;
 }
 
+.chicken {
+  background: red;
+}
+
+.beef {
+  background: blue;
+}
+
+.sushi {
+  background: maroon;
+}
 
 /*
 Description:
