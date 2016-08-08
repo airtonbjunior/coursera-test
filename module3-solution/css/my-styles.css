@@ -1,0 +1,32 @@
+nav{
+	background: yellow;
+}
+nav h1 {
+	text-align: left;
+}
+h1 {
+	text-align: center;
+}
+.menu-title {
+	text-align: center;
+}
+section {
+	background: gray;
+	margin: 10px;
+}
+section h2 {
+	padding-top: 10px;
+}
+section p {
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.menu-title {
+	text-transform: uppercase;
+	color: #fff;
+}
+.menu-description {
+	color: #fff;
+}

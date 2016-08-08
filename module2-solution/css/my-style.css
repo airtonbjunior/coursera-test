@@ -25,6 +25,10 @@ h2 {
   padding: -20px; 
 }
 
+.menu-title {
+  text-align: center;
+}
+
 p {
   font-family: Helvetica;
   color: white;
