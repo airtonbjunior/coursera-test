@@ -1,17 +1,11 @@
-nav{
-	background: yellow;
-}
-nav h1 {
-	text-align: left;
-}
-h1 {
-	text-align: center;
+body { 
+	padding-top: 70px;  /* Required when use the navbar-fixed-top */
 }
 .menu-title {
 	text-align: center;
 }
 section {
-	background: gray;
+	background: #25373D;
 	margin: 10px;
 }
 section h2 {
@@ -28,5 +22,14 @@ section p {
 	color: #fff;
 }
 .menu-description {
+	color: #fff;
+}
+.navbar {
+	background: #25373D;
+}
+#brand-title {
+	color: #fff;
+}
+.food-title {
 	color: #fff;
 }
