@@ -9,4 +9,7 @@ Coursera repository, created to the course **"HTML, CSS e Javascript para Desenv
  * Module 3
    * Assignment - http://bit.ly/21Ss4Cy
     * My Solution - https://airtonbjunior.github.io/coursera-test/module3-solution/
+ * Module 4
+   * Assignment - http://bit.ly/21StgWz
+    * My Solution - https://airtonbjunior.github.io/coursera-test/module4-solution/
 
